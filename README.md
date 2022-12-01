@@ -30,7 +30,7 @@ import (
 	"github.com/luraproject/lura/v2/logging"
 	router "github.com/luraproject/lura/v2/router/gin"
 
-+	"github.com:ManhHaHY/error-handler"
++	"github.com/ManhHaHY/error-handler"
 )
 
 // NewHandlerFactory returns a HandlerFactory with a rate-limit and a metrics collector middleware injected

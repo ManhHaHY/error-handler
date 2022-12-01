@@ -1,4 +1,4 @@
-module github.com/ifaisalalam/krakend-error-handler
+module github.com/ManhHaHY/error-handler
 
 go 1.15
 
